@@ -1,4 +1,4 @@
-## diffusion-relaxation biomimetic phantoms
+## diffusion-relaxation MRI data from biomimetic phantoms
 We provide diffusion-relaxation MRI data and methods for estimating the inner fibre radius of biomimetic phantoms, which will be freely available after the article's acceptance 🎁.
 
 <img src="Fig1_red.jpg" width="900">
