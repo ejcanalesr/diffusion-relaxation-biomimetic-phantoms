@@ -2,10 +2,7 @@
 We provide diffusion-relaxation MRI data and methods for estimating the inner fibre radius of biomimetic phantoms, which will be freely available after the article's acceptance 🎁.
 
 <img src="Fig1_red.jpg" width="900">
-*** ***
-##
-```
-Scanning Electron Micrographs depicting the microscopic morphology of the biomimetic phantoms. All phantom samples are shown using the same length scale. The mean effective (i.e., area-weighted) radius and the standard deviation (std) of each phantom are indicated in each panel, i.e., r = mean (std). Phantom1 and Phantom2 are displayed together as both were built using similar distributions of inner fibre radii.
+> Scanning Electron Micrographs depicting the microscopic morphology of the biomimetic phantoms. All phantom samples are shown using the same length scale. The mean effective (i.e., area-weighted) radius and the standard deviation (std) of each phantom are indicated in each panel, i.e., r = mean (std). Phantom1 and Phantom2 are displayed together as both were built using similar distributions of inner fibre radii.
 ```
 
 ## **Implementation of the algorithms described here:** 📢
